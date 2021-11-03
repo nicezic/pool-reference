@@ -2,4 +2,7 @@ config.yaml
 .idea
 venv
 __pycache__
-*.sqlite
+*.sqlite*
+log/
+ssl/
+
